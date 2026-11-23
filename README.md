@@ -14,7 +14,7 @@
  
 Sou **Wellinton Davi da Costa**, estudante do 2º semestre de **Ciência da Computação** na Unochapecó, com ensino médio completo.
  
-Venho de experiências em ambientes industriais e de produção (operador de jato, marceneiro e metalúrgico) e agora estou migrando para a área de **TI**, com foco em **suporte técnico**: atender usuários, cuidar de chamados e testar sistemas.
+Venho de experiências em ambientes industriais e de produção (operador de jato, marceneiro e metalúrgico) e agora estou migrando para a área de **TI**, com foco em suporte técnico.
  
 ## 🎯 Objetivo
  
@@ -26,7 +26,6 @@ Conseguir minha primeira oportunidade como **Suporte Nível 1 (Júnior)**, apren
 ![Pacote Office](https://img.shields.io/badge/Pacote%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  
 - Sistema operacional **Windows**
@@ -38,7 +37,7 @@ Conseguir minha primeira oportunidade como **Suporte Nível 1 (Júnior)**, apren
 | Curso | Instituição | Situação |
 |-------|-------------|----------|
 | Bacharelado em Ciência da Computação | Unochapecó | Cursando (2º semestre) |
-| Ensino Médio | — | Completo |
+| Ensino Médio | Maria Dulcina | Completo |
  
 ## 📚 Cursos
  
@@ -54,7 +53,7 @@ Estou começando a publicar meus projetos aqui. Em breve:
 ## 📫 Contato
  
 - E-mail: [wellintondavidacosta@gmail.com](mailto:wellintondavidacosta@gmail.com)
-- LinkedIn: _adicione o link do seu perfil aqui_
+
 ---
  
 <p align="center">
